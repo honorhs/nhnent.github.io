@@ -2,4 +2,4 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://github.com/nhnent">
